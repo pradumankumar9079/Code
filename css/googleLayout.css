@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+nav,
+footer {
+    /* flex-shrink
+
+    Defines how much a flex item will shrink relative to the rest of the flex items inside the same container when there is not enough space.
+    A value of 1 means the item will shrink as necessary to fit within the container. */
+    flex-shrink: 0;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 100vh; */
+    /*section takes as much space it wants*/
+    /* flex-grow
+
+    Defines how much a flex item will grow relative to the rest of the flex items inside the same container.
+    A value of 1 means the item will take up any available space, growing as necessary. */
+    flex-grow: 1;
+}
+
+nav ul {
+    display: flex;
+    justify-content: flex-end;
+}
+
+nav ul li {
+    list-style: none;
+    background: red;
+    padding: 4px;
+    border: 2px solid green;
+    margin: 2px;
+}
+
+.layer {
+    background: rgb(97, 95, 95);
+    padding: 10px 5px;
+    /*top right bottom left*/
+    border-bottom: 2px solid blue;
+}

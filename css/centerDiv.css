@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.parent {
+    background: black;
+    width: 100vw;
+    height: 50vh;
+    display: flex;
+    /*By Default Flex Direction raw*/
+    /* flex-direction: column;     */
+    /* flex-wrap: wrap; */
+    /*Works along main axis*/
+    justify-content: center;
+    /*Works along Cross axis*/
+    align-items: center;
+}
+
+/* div #block1 {
+    flex-shrink: 0;
+}
+
+div #block2 {
+    flex-shrink: 2;
+
+} */
+
+.child {
+    background: red;
+    width: 100px;
+    height: 100px;
+    border: 2px solid green;
+    margin: 2px;
+    /* flex-basis: 200px; Work along main axis width will not work */
+    /* flex-shrink: 0; */
+}

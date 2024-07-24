@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    /* position: relative; */
+    min-height: 200vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+div#parent {
+    position: relative;
+    display: flex;
+    background: rgb(36, 33, 33);
+    width: 60vw;
+    height: 40vh;
+    margin: 20vh;
+}
+
+#child1 {
+    /* By default position is static -- position absolute make it come out from html tree and adjust with --position relative once on other hand position fixed force to not follow relative once take whole body*/
+    /* position: absolute; */
+    position: fixed;
+    left: 0;
+    top: -10px;
+    background: blue;
+    width: 20vw;
+    height: 20vh;
+}
