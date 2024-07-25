@@ -26,13 +26,37 @@ console.log(myUpdatedAge)
 
 // Operator
 let num = 22;
-let myUpdatedNumber = 22**5 // ** is power in javascript
+let myUpdatedNumber = 22 ** 5 // ** is power in javascript
 console.log(myUpdatedNumber)
 
 // find Average
-let friendsNum = [2,3,4,5];
+let friendsNum = [2, 3, 4, 5];
 let sum = 0;
-for(let i=0; i<4; i++){
-    sum+=friendsNum[i];
+for (let i = 0; i < 4; i++) {
+    sum += friendsNum[i];
 }
 console.log(sum)
+
+// Increment and decrement
+let newNum = 2;
+newNum++ // newNum = newNum+1 same
+console.log(newNum)
+
+// function
+// here no need to declare let or var in parameter
+function myFunc(name) {
+    console.log("This is " + name)
+    return
+    console.log("Raja Bhai hai tera")
+}
+
+function returnFunc(){
+    return "This is Raja raj"
+}
+
+myFunc('Raja raj');
+
+let getOutput = returnFunc();
+console.log(getOutput)
+
+//  

@@ -9,6 +9,43 @@ This README outlines a detailed study plan over the course of several days to en
 - [x] **CSS**: Understand how to style HTML elements, including selectors, properties, and responsive design techniques.
 - [x] **Video Resource**: [HTML / CSS Fundamentals](https://www.youtube.com/watch?v=ZxKM3DCV2kE&t=1h6m)
 
+#### HTML/CSS Video Timestamps:
+- **Part 1.1 Introduction** - [1:06](https://www.youtube.com/watch?v=ZxKM3DCV2kE&t=1m6s)
+- **Part 1.2 How to use codedamn** - [2:37](https://www.youtube.com/watch?v=ZxKM3DCV2kE&t=2m37s)
+- **Part 1.3 How to use VSCode** - [4:49](https://www.youtube.com/watch?v=ZxKM3DCV2kE&t=4m49s)
+- **Part 1.4 Hello world HTML** - [10:00](https://www.youtube.com/watch?v=ZxKM3DCV2kE&t=10m0s)
+- **Part 1.5 Comments HTML** - [15:26](https://www.youtube.com/watch?v=ZxKM3DCV2kE&t=15m26s)
+- **Part 1.6 HTML tags** - [18:16](https://www.youtube.com/watch?v=ZxKM3DCV2kE&t=18m16s)
+- **Part 1.7 Heading tags HTML** - [22:26](https://www.youtube.com/watch?v=ZxKM3DCV2kE&t=22m26s)
+- **Part 1.8 Anchor tags HTML** - [27:06](https://www.youtube.com/watch?v=ZxKM3DCV2kE&t=27m6s)
+- **Part 1.9 Block and inline tags HTML** - [30:59](https://www.youtube.com/watch?v=ZxKM3DCV2kE&t=30m59s)
+- **Part 1.10 Why HTML tags exist HTML** - [38:21](https://www.youtube.com/watch?v=ZxKM3DCV2kE&t=38m21s)
+- **Part 1.11 Img tags HTML** - [41:51](https://www.youtube.com/watch?v=ZxKM3DCV2kE&t=41m51s)
+- **Part 1.12 Video tag HTML** - [47:21](https://www.youtube.com/watch?v=ZxKM3DCV2kE&t=47m21s)
+- **Part 1.13 Tables HTML** - [53:06](https://www.youtube.com/watch?v=ZxKM3DCV2kE&t=53m6s)
+- **Part 1.14 Forms HTML** - [57:48](https://www.youtube.com/watch?v=ZxKM3DCV2kE&t=57m48s)
+- **Part 1.15 Valid HTML structure** - [1:07:49](https://www.youtube.com/watch?v=ZxKM3DCV2kE&t=1h7m49s)
+- **Part 1.16 Tribute page** - [1:13:05](https://www.youtube.com/watch?v=ZxKM3DCV2kE&t=1h13m5s)
+- **Part 1.17 HTML basic done** - [1:20:38](https://www.youtube.com/watch?v=ZxKM3DCV2kE&t=1h20m38s)
+- **Part 1.18 CSS introduction** - [1:22:56](https://www.youtube.com/watch?v=ZxKM3DCV2kE&t=1h22m56s)
+- **Part 1.19 CSS hello world** - [1:25:42](https://www.youtube.com/watch?v=ZxKM3DCV2kE&t=1h25m42s)
+- **Part 1.20 CSS tag based selector** - [1:30:47](https://www.youtube.com/watch?v=ZxKM3DCV2kE&t=1h30m47s)
+- **Part 1.21 CSS debugging** - [1:33:57](https://www.youtube.com/watch?v=ZxKM3DCV2kE&t=1h33m57s)
+- **Part 1.22 CSS properties** - [1:37:52](https://www.youtube.com/watch?v=ZxKM3DCV2kE&t=1h37m52s)
+- **Part 1.23 CSS classes** - [1:41:58](https://www.youtube.com/watch?v=ZxKM3DCV2kE&t=1h41m58s)
+- **Part 1.24 ID in CSS** - [1:46:19](https://www.youtube.com/watch?v=ZxKM3DCV2kE&t=1h46m19s)
+- **Part 1.25 Block and inline CSS** - [1:49:46](https://www.youtube.com/watch?v=ZxKM3DCV2kE&t=1h49m46s)
+- **Part 1.26 Flexbox intro CSS** - [1:53:49](https://www.youtube.com/watch?v=ZxKM3DCV2kE&t=1h53m49s)
+- **Part 1.27 Flex-basis CSS** - [2:01:43](https://www.youtube.com/watch?v=ZxKM3DCV2kE&t=2h1m43s)
+- **Part 1.28 Flex shrink CSS** - [2:05:27](https://www.youtube.com/watch?v=ZxKM3DCV2kE&t=2h5m27s)
+- **Part 1.29 Flex-wrap** - [2:08:51](https://www.youtube.com/watch?v=ZxKM3DCV2kE&t=2h8m51s)
+- **Part 1.30 Center a div CSS** - [2:11:34](https://www.youtube.com/watch?v=ZxKM3DCV2kE&t=2h11m34s)
+- **Part 1.31 Common layouts with flexbox CSS** - [2:22:18](https://www.youtube.com/watch?v=ZxKM3DCV2kE&t=2h22m18s)
+- **Part 1.32 CSS position absolute** - [2:36:20](https://www.youtube.com/watch?v=ZxKM3DCV2kE&t=2h36m20s)
+- **Part 1.33 CSS position fixed** - [2:43:07](https://www.youtube.com/watch?v=ZxKM3DCV2kE&t=2h43m7s)
+- **Part 1.34 CSS position sticky** - [2:45:32](https://www.youtube.com/watch?v=ZxKM3DCV2kE&t=2h45m32s)
+- **Part 1.35 What's next** - [2:48:26](https://www.youtube.com/watch?v=ZxKM3DCV2kE&t=2h48m26s)
+
 ### Day 2: JavaScript
 - [ ] Learn the fundamentals of JavaScript, including variables, data types, functions, control flow, and DOM manipulation.
 - [ ] Practice with basic algorithms and problem-solving.
