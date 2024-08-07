@@ -59,4 +59,14 @@ myFunc('Raja raj');
 let getOutput = returnFunc();
 console.log(getOutput)
 
-//  
+function ageAbove18(age,bribe){
+    if(age>=18 && bribe>=100){
+        console.log("Ur Eligible for Driving");
+    }else if(age>=18 && bribe<100){
+        console.log("Ur not Eligible for Driving");
+    }else{
+        console.log("Ur not Eligible");
+    }
+}
+
+ageAbove18(18,100);
