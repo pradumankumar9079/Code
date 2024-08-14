@@ -83,7 +83,33 @@ for(let i=0; i<arr.length; i++){
 // pass any string will make no sense and evaluated as true
 if('ajdbs'){
     console.log("This is true value");
-    return
+    // return
 }
 
 console.log("jsdd");
+
+// Array in JavaScript
+const myFriends = [];
+
+function addMyFriends(friend){
+    // it insert at begining of array
+    myFriends.unshift(friend);
+    // it insert at the end of the array
+    // myFriends.push(friends)
+    console.log(myFriends);   
+}
+
+addMyFriends("raja")
+addMyFriends("raj")
+addMyFriends("praduman")
+
+// length of array
+console.log(myFriends.length);
+
+// to remove value from end of Array and return it
+let lastValue = myFriends.pop();
+
+// changing value of Array even array is const
+myFriends[2] = 'Riya'
+
+console.log('Final Array '+myFriends+' \nReturned Value '+lastValue+' s');
