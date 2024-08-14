@@ -112,4 +112,4 @@ let lastValue = myFriends.pop();
 // changing value of Array even array is const
 myFriends[2] = 'Riya'
 
-console.log('Final Array '+myFriends+' \nReturned Value '+lastValue+' s');
+console.log('Final Array '+myFriends+' \nReturned Value '+lastValue);
