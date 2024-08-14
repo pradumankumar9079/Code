@@ -57,9 +57,13 @@ function returnFunc(){
 myFunc('Raja raj');
 
 let getOutput = returnFunc();
-console.log(getOutput)
+console.log(getOutput);
 
-function ageAbove18(age,bribe){
+function ShouldIGetALicense(age,bribe,whiteListed){
+    if(!whiteListed){
+        console.log(" Not Allowed");
+        return;
+    }
     if(age>=18 && bribe>=100){
         console.log("Ur Eligible for Driving");
     }else if(age>=18 && bribe<100){
@@ -68,5 +72,18 @@ function ageAbove18(age,bribe){
         console.log("Ur not Eligible");
     }
 }
+// these value are evaluated as false == false undefined , null, 0
+ShouldIGetALicense(18,100,0);
 
-ageAbove18(18,100);
+let arr = [2,3,"Raja",'r'];
+for(let i=0; i<arr.length; i++){
+    console.log(arr[i]+' ');
+}
+
+// pass any string will make no sense and evaluated as true
+if('ajdbs'){
+    console.log("This is true value");
+    return
+}
+
+console.log("jsdd");
