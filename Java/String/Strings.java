@@ -89,6 +89,9 @@ public class Strings {
                     sub += str.charAt(k);
                 }
                 System.out.print(sub + " ");
+
+                // else use this
+                // System.out.println(str.substring(i, j));
             }
 
         }
